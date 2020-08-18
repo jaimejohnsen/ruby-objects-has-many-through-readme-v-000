@@ -58,4 +58,3 @@ class Customer
 
 end
 
-end
